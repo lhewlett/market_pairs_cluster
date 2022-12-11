@@ -1,0 +1,46 @@
+"","MSA","is_male","range","estimate","population","perc"
+"1","Atlanta-Sandy Springs-Alpharetta, GA",1,"Advanced degree",674433,2820300,0.239135198383151
+"2","Atlanta-Sandy Springs-Alpharetta, GA",1,"Bachelor's degree",1070061,2820300,0.379413892139134
+"3","Atlanta-Sandy Springs-Alpharetta, GA",1,"Some college",1075806,2820300,0.381450909477715
+"4","Boston-Cambridge-Newton, MA-NH",1,"Advanced degree",821281,2469580,0.332558977639923
+"5","Boston-Cambridge-Newton, MA-NH",1,"Bachelor's degree",949730,2469580,0.38457146559334
+"6","Boston-Cambridge-Newton, MA-NH",1,"Some college",698569,2469580,0.282869556766738
+"7","Chicago-Naperville-Elgin, IL-IN-WI",1,"Some college",1688391,4350959,0.38805031258626
+"8","Chicago-Naperville-Elgin, IL-IN-WI",1,"Advanced degree",1091140,4350959,0.250781494378596
+"9","Chicago-Naperville-Elgin, IL-IN-WI",1,"Bachelor's degree",1571428,4350959,0.361168193035145
+"10","Dallas-Fort Worth-Arlington, TX",1,"Advanced degree",695329,3324020,0.209183157742733
+"11","Dallas-Fort Worth-Arlington, TX",1,"Bachelor's degree",1255094,3324020,0.377583167369631
+"12","Dallas-Fort Worth-Arlington, TX",1,"Some college",1373597,3324020,0.413233674887636
+"13","Detroit-Warren-Dearborn, MI",1,"Some college",934740,1980761,0.471909533760004
+"14","Detroit-Warren-Dearborn, MI",1,"Advanced degree",422534,1980761,0.213319022335355
+"15","Detroit-Warren-Dearborn, MI",1,"Bachelor's degree",623487,1980761,0.314771443904641
+"16","Houston-The Woodlands-Sugar Land, TX",1,"Some college",1203264,2878983,0.417947587741921
+"17","Houston-The Woodlands-Sugar Land, TX",1,"Bachelor's degree",1046870,2878983,0.363624932832184
+"18","Houston-The Woodlands-Sugar Land, TX",1,"Advanced degree",628849,2878983,0.218427479425894
+"19","Los Angeles-Long Beach-Anaheim, CA",1,"Bachelor's degree",2147221,5661514,0.379266217481755
+"20","Los Angeles-Long Beach-Anaheim, CA",1,"Some college",2289374,5661514,0.40437487216317
+"21","Los Angeles-Long Beach-Anaheim, CA",1,"Advanced degree",1224919,5661514,0.216358910355075
+"22","Miami-Fort Lauderdale-Pompano Beach, FL",1,"Advanced degree",617663,2674565,0.230939610740438
+"23","Miami-Fort Lauderdale-Pompano Beach, FL",1,"Bachelor's degree",936087,2674565,0.349995980654798
+"24","Miami-Fort Lauderdale-Pompano Beach, FL",1,"Some college",1120815,2674565,0.419064408604764
+"25","New York-Newark-Jersey City, NY-NJ-PA",1,"Some college",2939885,9015462,0.326093659981041
+"26","New York-Newark-Jersey City, NY-NJ-PA",1,"Advanced degree",2616501,9015462,0.290223728966968
+"27","New York-Newark-Jersey City, NY-NJ-PA",1,"Bachelor's degree",3459076,9015462,0.38368261105199
+"28","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1,"Some college",1019259,2845523,0.358197421001341
+"29","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1,"Bachelor's degree",1069039,2845523,0.375691568825836
+"30","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1,"Advanced degree",757225,2845523,0.266111010172822
+"31","Phoenix-Mesa-Chandler, AZ",1,"Bachelor's degree",722528,2251108,0.320965497879267
+"32","Phoenix-Mesa-Chandler, AZ",1,"Some college",1088670,2251108,0.483615179724829
+"33","Phoenix-Mesa-Chandler, AZ",1,"Advanced degree",439910,2251108,0.195419322395905
+"34","Riverside-San Bernardino-Ontario, CA",1,"Advanced degree",252263,1662283,0.15175695113287
+"35","Riverside-San Bernardino-Ontario, CA",1,"Bachelor's degree",465097,1662283,0.279794114479905
+"36","Riverside-San Bernardino-Ontario, CA",1,"Some college",944923,1662283,0.568448934387225
+"37","San Francisco-Oakland-Berkeley, CA",1,"Bachelor's degree",992525,2511843,0.395138151548485
+"38","San Francisco-Oakland-Berkeley, CA",1,"Some college",762168,2511843,0.303429792387502
+"39","San Francisco-Oakland-Berkeley, CA",1,"Advanced degree",757150,2511843,0.301432056064014
+"40","Seattle-Tacoma-Bellevue, WA",1,"Advanced degree",529803,2135970,0.248038596047697
+"41","Seattle-Tacoma-Bellevue, WA",1,"Bachelor's degree",804084,2135970,0.376449107431284
+"42","Seattle-Tacoma-Bellevue, WA",1,"Some college",802083,2135970,0.375512296521019
+"43","Washington-Arlington-Alexandria, DC-VA-MD-WV",1,"Advanced degree",1171625,3237518,0.36188987984005
+"44","Washington-Arlington-Alexandria, DC-VA-MD-WV",1,"Bachelor's degree",1162659,3237518,0.359120474388096
+"45","Washington-Arlington-Alexandria, DC-VA-MD-WV",1,"Some college",903234,3237518,0.278989645771854
