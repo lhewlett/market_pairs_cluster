@@ -1,0 +1,691 @@
+"","MSA","estimate","is_male","min_age","max_age"
+"1","Atlanta-Sandy Springs-Alpharetta, GA",182318,1,0,5
+"2","Los Angeles-Long Beach-Anaheim, CA",354263,1,0,5
+"3","Seattle-Tacoma-Bellevue, WA",115861,1,0,5
+"4","Miami-Fort Lauderdale-Pompano Beach, FL",165822,1,0,5
+"5","Washington-Arlington-Alexandria, DC-VA-MD-WV",191907,1,0,5
+"6","Phoenix-Mesa-Chandler, AZ",144339,1,0,5
+"7","Chicago-Naperville-Elgin, IL-IN-WI",270149,1,0,5
+"8","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",174755,1,0,5
+"9","Dallas-Fort Worth-Arlington, TX",251179,1,0,5
+"10","Detroit-Warren-Dearborn, MI",126007,1,0,5
+"11","San Francisco-Oakland-Berkeley, CA",119232,1,0,5
+"12","Houston-The Woodlands-Sugar Land, TX",244416,1,0,5
+"13","Boston-Cambridge-Newton, MA-NH",124843,1,0,5
+"14","New York-Newark-Jersey City, NY-NJ-PA",579359,1,0,5
+"15","Riverside-San Bernardino-Ontario, CA",147629,1,0,5
+"16","Phoenix-Mesa-Chandler, AZ",161117,1,5,9
+"17","Atlanta-Sandy Springs-Alpharetta, GA",191830,1,5,9
+"18","Dallas-Fort Worth-Arlington, TX",276089,1,5,9
+"19","Boston-Cambridge-Newton, MA-NH",132853,1,5,9
+"20","Detroit-Warren-Dearborn, MI",134137,1,5,9
+"21","Seattle-Tacoma-Bellevue, WA",119683,1,5,9
+"22","Washington-Arlington-Alexandria, DC-VA-MD-WV",204346,1,5,9
+"23","Houston-The Woodlands-Sugar Land, TX",270976,1,5,9
+"24","Miami-Fort Lauderdale-Pompano Beach, FL",168939,1,5,9
+"25","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",184873,1,5,9
+"26","New York-Newark-Jersey City, NY-NJ-PA",584308,1,5,9
+"27","Riverside-San Bernardino-Ontario, CA",164817,1,5,9
+"28","San Francisco-Oakland-Berkeley, CA",123782,1,5,9
+"29","Los Angeles-Long Beach-Anaheim, CA",372054,1,5,9
+"30","Chicago-Naperville-Elgin, IL-IN-WI",302458,1,5,9
+"31","Dallas-Fort Worth-Arlington, TX",297797,1,10,14
+"32","Atlanta-Sandy Springs-Alpharetta, GA",232176,1,10,14
+"33","Boston-Cambridge-Newton, MA-NH",141175,1,10,14
+"34","Detroit-Warren-Dearborn, MI",139460,1,10,14
+"35","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",201757,1,10,14
+"36","Phoenix-Mesa-Chandler, AZ",170648,1,10,14
+"37","Houston-The Woodlands-Sugar Land, TX",280270,1,10,14
+"38","Miami-Fort Lauderdale-Pompano Beach, FL",180687,1,10,14
+"39","Seattle-Tacoma-Bellevue, WA",126301,1,10,14
+"40","Washington-Arlington-Alexandria, DC-VA-MD-WV",217607,1,10,14
+"41","San Francisco-Oakland-Berkeley, CA",136368,1,10,14
+"42","Riverside-San Bernardino-Ontario, CA",180755,1,10,14
+"43","New York-Newark-Jersey City, NY-NJ-PA",626431,1,10,14
+"44","Chicago-Naperville-Elgin, IL-IN-WI",314751,1,10,14
+"45","Los Angeles-Long Beach-Anaheim, CA",432282,1,10,14
+"46","Phoenix-Mesa-Chandler, AZ",103730,1,15,17
+"47","Washington-Arlington-Alexandria, DC-VA-MD-WV",123622,1,15,17
+"48","Miami-Fort Lauderdale-Pompano Beach, FL",108600,1,15,17
+"49","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",121817,1,15,17
+"50","New York-Newark-Jersey City, NY-NJ-PA",373300,1,15,17
+"51","Riverside-San Bernardino-Ontario, CA",108013,1,15,17
+"52","Dallas-Fort Worth-Arlington, TX",178903,1,15,17
+"53","Atlanta-Sandy Springs-Alpharetta, GA",132268,1,15,17
+"54","Seattle-Tacoma-Bellevue, WA",71542,1,15,17
+"55","San Francisco-Oakland-Berkeley, CA",81410,1,15,17
+"56","Houston-The Woodlands-Sugar Land, TX",166513,1,15,17
+"57","Boston-Cambridge-Newton, MA-NH",88655,1,15,17
+"58","Chicago-Naperville-Elgin, IL-IN-WI",197607,1,15,17
+"59","Detroit-Warren-Dearborn, MI",88640,1,15,17
+"60","Los Angeles-Long Beach-Anaheim, CA",251467,1,15,17
+"61","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",79055,1,18,19
+"62","Seattle-Tacoma-Bellevue, WA",44086,1,18,19
+"63","Washington-Arlington-Alexandria, DC-VA-MD-WV",78306,1,18,19
+"64","Chicago-Naperville-Elgin, IL-IN-WI",124835,1,18,19
+"65","Phoenix-Mesa-Chandler, AZ",66048,1,18,19
+"66","Dallas-Fort Worth-Arlington, TX",104102,1,18,19
+"67","New York-Newark-Jersey City, NY-NJ-PA",228895,1,18,19
+"68","Los Angeles-Long Beach-Anaheim, CA",161956,1,18,19
+"69","San Francisco-Oakland-Berkeley, CA",49386,1,18,19
+"70","Houston-The Woodlands-Sugar Land, TX",94681,1,18,19
+"71","Boston-Cambridge-Newton, MA-NH",71852,1,18,19
+"72","Atlanta-Sandy Springs-Alpharetta, GA",82079,1,18,19
+"73","Miami-Fort Lauderdale-Pompano Beach, FL",66777,1,18,19
+"74","Detroit-Warren-Dearborn, MI",48907,1,18,19
+"75","Riverside-San Bernardino-Ontario, CA",66111,1,18,19
+"76","Boston-Cambridge-Newton, MA-NH",34933,1,20,20
+"77","Washington-Arlington-Alexandria, DC-VA-MD-WV",35675,1,20,20
+"78","Chicago-Naperville-Elgin, IL-IN-WI",56056,1,20,20
+"79","Dallas-Fort Worth-Arlington, TX",48116,1,20,20
+"80","Detroit-Warren-Dearborn, MI",25966,1,20,20
+"81","San Francisco-Oakland-Berkeley, CA",20669,1,20,20
+"82","Seattle-Tacoma-Bellevue, WA",21607,1,20,20
+"83","Miami-Fort Lauderdale-Pompano Beach, FL",35540,1,20,20
+"84","Houston-The Woodlands-Sugar Land, TX",44551,1,20,20
+"85","New York-Newark-Jersey City, NY-NJ-PA",112689,1,20,20
+"86","Atlanta-Sandy Springs-Alpharetta, GA",32706,1,20,20
+"87","Riverside-San Bernardino-Ontario, CA",33840,1,20,20
+"88","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",39048,1,20,20
+"89","Los Angeles-Long Beach-Anaheim, CA",82186,1,20,20
+"90","Phoenix-Mesa-Chandler, AZ",36420,1,20,20
+"91","Washington-Arlington-Alexandria, DC-VA-MD-WV",41937,1,21,21
+"92","San Francisco-Oakland-Berkeley, CA",26357,1,21,21
+"93","Dallas-Fort Worth-Arlington, TX",46283,1,21,21
+"94","Houston-The Woodlands-Sugar Land, TX",43104,1,21,21
+"95","Phoenix-Mesa-Chandler, AZ",32140,1,21,21
+"96","Chicago-Naperville-Elgin, IL-IN-WI",57984,1,21,21
+"97","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37573,1,21,21
+"98","Miami-Fort Lauderdale-Pompano Beach, FL",32621,1,21,21
+"99","Boston-Cambridge-Newton, MA-NH",32052,1,21,21
+"100","Riverside-San Bernardino-Ontario, CA",35971,1,21,21
+"101","New York-Newark-Jersey City, NY-NJ-PA",114579,1,21,21
+"102","Detroit-Warren-Dearborn, MI",25290,1,21,21
+"103","Seattle-Tacoma-Bellevue, WA",23373,1,21,21
+"104","Atlanta-Sandy Springs-Alpharetta, GA",40699,1,21,21
+"105","Los Angeles-Long Beach-Anaheim, CA",78480,1,21,21
+"106","Washington-Arlington-Alexandria, DC-VA-MD-WV",116953,1,22,24
+"107","Houston-The Woodlands-Sugar Land, TX",145618,1,22,24
+"108","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",113636,1,22,24
+"109","Phoenix-Mesa-Chandler, AZ",96006,1,22,24
+"110","Chicago-Naperville-Elgin, IL-IN-WI",182076,1,22,24
+"111","Atlanta-Sandy Springs-Alpharetta, GA",122734,1,22,24
+"112","Miami-Fort Lauderdale-Pompano Beach, FL",100913,1,22,24
+"113","Detroit-Warren-Dearborn, MI",76650,1,22,24
+"114","Riverside-San Bernardino-Ontario, CA",93839,1,22,24
+"115","San Francisco-Oakland-Berkeley, CA",76521,1,22,24
+"116","New York-Newark-Jersey City, NY-NJ-PA",352756,1,22,24
+"117","Seattle-Tacoma-Bellevue, WA",75237,1,22,24
+"118","Boston-Cambridge-Newton, MA-NH",99693,1,22,24
+"119","Los Angeles-Long Beach-Anaheim, CA",256305,1,22,24
+"120","Dallas-Fort Worth-Arlington, TX",155092,1,22,24
+"121","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",210485,1,25,29
+"122","Atlanta-Sandy Springs-Alpharetta, GA",209044,1,25,29
+"123","Chicago-Naperville-Elgin, IL-IN-WI",334689,1,25,29
+"124","Riverside-San Bernardino-Ontario, CA",171726,1,25,29
+"125","San Francisco-Oakland-Berkeley, CA",160800,1,25,29
+"126","New York-Newark-Jersey City, NY-NJ-PA",676430,1,25,29
+"127","Dallas-Fort Worth-Arlington, TX",280755,1,25,29
+"128","Seattle-Tacoma-Bellevue, WA",165985,1,25,29
+"129","Los Angeles-Long Beach-Anaheim, CA",494926,1,25,29
+"130","Phoenix-Mesa-Chandler, AZ",182432,1,25,29
+"131","Detroit-Warren-Dearborn, MI",150814,1,25,29
+"132","Miami-Fort Lauderdale-Pompano Beach, FL",186793,1,25,29
+"133","Washington-Arlington-Alexandria, DC-VA-MD-WV",215285,1,25,29
+"134","Boston-Cambridge-Newton, MA-NH",180378,1,25,29
+"135","Houston-The Woodlands-Sugar Land, TX",249505,1,25,29
+"136","Riverside-San Bernardino-Ontario, CA",174277,1,30,34
+"137","Seattle-Tacoma-Bellevue, WA",184497,1,30,34
+"138","Atlanta-Sandy Springs-Alpharetta, GA",211004,1,30,34
+"139","Washington-Arlington-Alexandria, DC-VA-MD-WV",228706,1,30,34
+"140","San Francisco-Oakland-Berkeley, CA",193815,1,30,34
+"141","Phoenix-Mesa-Chandler, AZ",183827,1,30,34
+"142","Dallas-Fort Worth-Arlington, TX",288523,1,30,34
+"143","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",225402,1,30,34
+"144","New York-Newark-Jersey City, NY-NJ-PA",719424,1,30,34
+"145","Houston-The Woodlands-Sugar Land, TX",266388,1,30,34
+"146","Detroit-Warren-Dearborn, MI",149864,1,30,34
+"147","Los Angeles-Long Beach-Anaheim, CA",524793,1,30,34
+"148","Boston-Cambridge-Newton, MA-NH",182162,1,30,34
+"149","Chicago-Naperville-Elgin, IL-IN-WI",336083,1,30,34
+"150","Miami-Fort Lauderdale-Pompano Beach, FL",208978,1,30,34
+"151","Detroit-Warren-Dearborn, MI",130569,1,35,39
+"152","Los Angeles-Long Beach-Anaheim, CA",473102,1,35,39
+"153","San Francisco-Oakland-Berkeley, CA",186594,1,35,39
+"154","Washington-Arlington-Alexandria, DC-VA-MD-WV",241020,1,35,39
+"155","Miami-Fort Lauderdale-Pompano Beach, FL",203362,1,35,39
+"156","Dallas-Fort Worth-Arlington, TX",272641,1,35,39
+"157","Atlanta-Sandy Springs-Alpharetta, GA",212021,1,35,39
+"158","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",213496,1,35,39
+"159","New York-Newark-Jersey City, NY-NJ-PA",685570,1,35,39
+"160","Boston-Cambridge-Newton, MA-NH",170985,1,35,39
+"161","Riverside-San Bernardino-Ontario, CA",164588,1,35,39
+"162","Chicago-Naperville-Elgin, IL-IN-WI",339198,1,35,39
+"163","Seattle-Tacoma-Bellevue, WA",165301,1,35,39
+"164","Houston-The Woodlands-Sugar Land, TX",279755,1,35,39
+"165","Phoenix-Mesa-Chandler, AZ",172141,1,35,39
+"166","New York-Newark-Jersey City, NY-NJ-PA",626329,1,40,44
+"167","Chicago-Naperville-Elgin, IL-IN-WI",310710,1,40,44
+"168","San Francisco-Oakland-Berkeley, CA",167775,1,40,44
+"169","Washington-Arlington-Alexandria, DC-VA-MD-WV",225096,1,40,44
+"170","Dallas-Fort Worth-Arlington, TX",280418,1,40,44
+"171","Atlanta-Sandy Springs-Alpharetta, GA",198569,1,40,44
+"172","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",188098,1,40,44
+"173","Riverside-San Bernardino-Ontario, CA",154049,1,40,44
+"174","Detroit-Warren-Dearborn, MI",131644,1,40,44
+"175","Boston-Cambridge-Newton, MA-NH",151410,1,40,44
+"176","Los Angeles-Long Beach-Anaheim, CA",439042,1,40,44
+"177","Phoenix-Mesa-Chandler, AZ",162574,1,40,44
+"178","Seattle-Tacoma-Bellevue, WA",155777,1,40,44
+"179","Miami-Fort Lauderdale-Pompano Beach, FL",201965,1,40,44
+"180","Houston-The Woodlands-Sugar Land, TX",249825,1,40,44
+"181","Washington-Arlington-Alexandria, DC-VA-MD-WV",209786,1,45,49
+"182","Seattle-Tacoma-Bellevue, WA",128926,1,45,49
+"183","Dallas-Fort Worth-Arlington, TX",253625,1,45,49
+"184","Detroit-Warren-Dearborn, MI",128805,1,45,49
+"185","Boston-Cambridge-Newton, MA-NH",143257,1,45,49
+"186","San Francisco-Oakland-Berkeley, CA",155516,1,45,49
+"187","New York-Newark-Jersey City, NY-NJ-PA",597928,1,45,49
+"188","Phoenix-Mesa-Chandler, AZ",150658,1,45,49
+"189","Houston-The Woodlands-Sugar Land, TX",234180,1,45,49
+"190","Los Angeles-Long Beach-Anaheim, CA",417794,1,45,49
+"191","Riverside-San Bernardino-Ontario, CA",139557,1,45,49
+"192","Miami-Fort Lauderdale-Pompano Beach, FL",201177,1,45,49
+"193","Chicago-Naperville-Elgin, IL-IN-WI",298175,1,45,49
+"194","Atlanta-Sandy Springs-Alpharetta, GA",201542,1,45,49
+"195","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",177932,1,45,49
+"196","Seattle-Tacoma-Bellevue, WA",132085,1,50,54
+"197","Detroit-Warren-Dearborn, MI",148550,1,50,54
+"198","Houston-The Woodlands-Sugar Land, TX",224588,1,50,54
+"199","Dallas-Fort Worth-Arlington, TX",249277,1,50,54
+"200","San Francisco-Oakland-Berkeley, CA",160257,1,50,54
+"201","Miami-Fort Lauderdale-Pompano Beach, FL",210511,1,50,54
+"202","Chicago-Naperville-Elgin, IL-IN-WI",307698,1,50,54
+"203","Boston-Cambridge-Newton, MA-NH",160312,1,50,54
+"204","Los Angeles-Long Beach-Anaheim, CA",440887,1,50,54
+"205","Washington-Arlington-Alexandria, DC-VA-MD-WV",210841,1,50,54
+"206","New York-Newark-Jersey City, NY-NJ-PA",647301,1,50,54
+"207","Phoenix-Mesa-Chandler, AZ",153467,1,50,54
+"208","Atlanta-Sandy Springs-Alpharetta, GA",209973,1,50,54
+"209","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",197783,1,50,54
+"210","Riverside-San Bernardino-Ontario, CA",142730,1,50,54
+"211","Chicago-Naperville-Elgin, IL-IN-WI",308593,1,55,59
+"212","New York-Newark-Jersey City, NY-NJ-PA",653058,1,55,59
+"213","Seattle-Tacoma-Bellevue, WA",117037,1,55,59
+"214","Dallas-Fort Worth-Arlington, TX",234702,1,55,59
+"215","Atlanta-Sandy Springs-Alpharetta, GA",189923,1,55,59
+"216","Boston-Cambridge-Newton, MA-NH",169626,1,55,59
+"217","Phoenix-Mesa-Chandler, AZ",143177,1,55,59
+"218","Washington-Arlington-Alexandria, DC-VA-MD-WV",200618,1,55,59
+"219","Riverside-San Bernardino-Ontario, CA",134663,1,55,59
+"220","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",203243,1,55,59
+"221","Miami-Fort Lauderdale-Pompano Beach, FL",214824,1,55,59
+"222","Detroit-Warren-Dearborn, MI",152063,1,55,59
+"223","San Francisco-Oakland-Berkeley, CA",152112,1,55,59
+"224","Los Angeles-Long Beach-Anaheim, CA",422794,1,55,59
+"225","Houston-The Woodlands-Sugar Land, TX",199264,1,55,59
+"226","Miami-Fort Lauderdale-Pompano Beach, FL",85807,1,60,61
+"227","Detroit-Warren-Dearborn, MI",62705,1,60,61
+"228","New York-Newark-Jersey City, NY-NJ-PA",262591,1,60,61
+"229","Riverside-San Bernardino-Ontario, CA",55240,1,60,61
+"230","Houston-The Woodlands-Sugar Land, TX",83286,1,60,61
+"231","Phoenix-Mesa-Chandler, AZ",57833,1,60,61
+"232","Dallas-Fort Worth-Arlington, TX",90152,1,60,61
+"233","San Francisco-Oakland-Berkeley, CA",60101,1,60,61
+"234","Chicago-Naperville-Elgin, IL-IN-WI",122804,1,60,61
+"235","Boston-Cambridge-Newton, MA-NH",63764,1,60,61
+"236","Atlanta-Sandy Springs-Alpharetta, GA",71849,1,60,61
+"237","Seattle-Tacoma-Bellevue, WA",51674,1,60,61
+"238","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",83260,1,60,61
+"239","Washington-Arlington-Alexandria, DC-VA-MD-WV",80266,1,60,61
+"240","Los Angeles-Long Beach-Anaheim, CA",159428,1,60,61
+"241","Miami-Fort Lauderdale-Pompano Beach, FL",103743,1,62,64
+"242","Dallas-Fort Worth-Arlington, TX",119957,1,62,64
+"243","Los Angeles-Long Beach-Anaheim, CA",222170,1,62,64
+"244","New York-Newark-Jersey City, NY-NJ-PA",361280,1,62,64
+"245","Houston-The Woodlands-Sugar Land, TX",112870,1,62,64
+"246","San Francisco-Oakland-Berkeley, CA",82230,1,62,64
+"247","Detroit-Warren-Dearborn, MI",84667,1,62,64
+"248","Chicago-Naperville-Elgin, IL-IN-WI",167677,1,62,64
+"249","Boston-Cambridge-Newton, MA-NH",91911,1,62,64
+"250","Atlanta-Sandy Springs-Alpharetta, GA",101875,1,62,64
+"251","Phoenix-Mesa-Chandler, AZ",82475,1,62,64
+"252","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",121902,1,62,64
+"253","Washington-Arlington-Alexandria, DC-VA-MD-WV",110051,1,62,64
+"254","Seattle-Tacoma-Bellevue, WA",73369,1,62,64
+"255","Riverside-San Bernardino-Ontario, CA",75476,1,62,64
+"256","Chicago-Naperville-Elgin, IL-IN-WI",103373,1,65,66
+"257","Dallas-Fort Worth-Arlington, TX",71267,1,65,66
+"258","New York-Newark-Jersey City, NY-NJ-PA",216083,1,65,66
+"259","Miami-Fort Lauderdale-Pompano Beach, FL",62014,1,65,66
+"260","San Francisco-Oakland-Berkeley, CA",50972,1,65,66
+"261","Detroit-Warren-Dearborn, MI",54149,1,65,66
+"262","Riverside-San Bernardino-Ontario, CA",43575,1,65,66
+"263","Boston-Cambridge-Newton, MA-NH",51132,1,65,66
+"264","Phoenix-Mesa-Chandler, AZ",47744,1,65,66
+"265","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",69595,1,65,66
+"266","Washington-Arlington-Alexandria, DC-VA-MD-WV",54908,1,65,66
+"267","Atlanta-Sandy Springs-Alpharetta, GA",57923,1,65,66
+"268","Los Angeles-Long Beach-Anaheim, CA",132907,1,65,66
+"269","Houston-The Woodlands-Sugar Land, TX",64905,1,65,66
+"270","Seattle-Tacoma-Bellevue, WA",41467,1,65,66
+"271","Dallas-Fort Worth-Arlington, TX",85271,1,67,69
+"272","Miami-Fort Lauderdale-Pompano Beach, FL",94551,1,67,69
+"273","Chicago-Naperville-Elgin, IL-IN-WI",129832,1,67,69
+"274","Atlanta-Sandy Springs-Alpharetta, GA",74162,1,67,69
+"275","San Francisco-Oakland-Berkeley, CA",64944,1,67,69
+"276","Riverside-San Bernardino-Ontario, CA",57035,1,67,69
+"277","Boston-Cambridge-Newton, MA-NH",77636,1,67,69
+"278","Washington-Arlington-Alexandria, DC-VA-MD-WV",83168,1,67,69
+"279","Seattle-Tacoma-Bellevue, WA",53670,1,67,69
+"280","Los Angeles-Long Beach-Anaheim, CA",167379,1,67,69
+"281","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",93995,1,67,69
+"282","Detroit-Warren-Dearborn, MI",68824,1,67,69
+"283","Phoenix-Mesa-Chandler, AZ",67115,1,67,69
+"284","Houston-The Woodlands-Sugar Land, TX",85175,1,67,69
+"285","New York-Newark-Jersey City, NY-NJ-PA",278235,1,67,69
+"286","Dallas-Fort Worth-Arlington, TX",113149,1,70,74
+"287","Miami-Fort Lauderdale-Pompano Beach, FL",129339,1,70,74
+"288","Seattle-Tacoma-Bellevue, WA",69977,1,70,74
+"289","San Francisco-Oakland-Berkeley, CA",98159,1,70,74
+"290","Boston-Cambridge-Newton, MA-NH",98263,1,70,74
+"291","Riverside-San Bernardino-Ontario, CA",80700,1,70,74
+"292","New York-Newark-Jersey City, NY-NJ-PA",390218,1,70,74
+"293","Phoenix-Mesa-Chandler, AZ",105802,1,70,74
+"294","Los Angeles-Long Beach-Anaheim, CA",230932,1,70,74
+"295","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",126943,1,70,74
+"296","Washington-Arlington-Alexandria, DC-VA-MD-WV",110970,1,70,74
+"297","Chicago-Naperville-Elgin, IL-IN-WI",187013,1,70,74
+"298","Houston-The Woodlands-Sugar Land, TX",114142,1,70,74
+"299","Detroit-Warren-Dearborn, MI",93184,1,70,74
+"300","Atlanta-Sandy Springs-Alpharetta, GA",101855,1,70,74
+"301","Miami-Fort Lauderdale-Pompano Beach, FL",96484,1,75,79
+"302","New York-Newark-Jersey City, NY-NJ-PA",247747,1,75,79
+"303","Boston-Cambridge-Newton, MA-NH",60660,1,75,79
+"304","Riverside-San Bernardino-Ontario, CA",54548,1,75,79
+"305","San Francisco-Oakland-Berkeley, CA",59495,1,75,79
+"306","Phoenix-Mesa-Chandler, AZ",72810,1,75,79
+"307","Atlanta-Sandy Springs-Alpharetta, GA",58403,1,75,79
+"308","Los Angeles-Long Beach-Anaheim, CA",145898,1,75,79
+"309","Detroit-Warren-Dearborn, MI",57679,1,75,79
+"310","Dallas-Fort Worth-Arlington, TX",73670,1,75,79
+"311","Washington-Arlington-Alexandria, DC-VA-MD-WV",70149,1,75,79
+"312","Chicago-Naperville-Elgin, IL-IN-WI",109549,1,75,79
+"313","Houston-The Woodlands-Sugar Land, TX",66222,1,75,79
+"314","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",77141,1,75,79
+"315","Seattle-Tacoma-Bellevue, WA",43492,1,75,79
+"316","Riverside-San Bernardino-Ontario, CA",29882,1,80,84
+"317","Miami-Fort Lauderdale-Pompano Beach, FL",59794,1,80,84
+"318","Houston-The Woodlands-Sugar Land, TX",38622,1,80,84
+"319","Dallas-Fort Worth-Arlington, TX",40430,1,80,84
+"320","Washington-Arlington-Alexandria, DC-VA-MD-WV",40560,1,80,84
+"321","Los Angeles-Long Beach-Anaheim, CA",96619,1,80,84
+"322","Chicago-Naperville-Elgin, IL-IN-WI",72434,1,80,84
+"323","San Francisco-Oakland-Berkeley, CA",38283,1,80,84
+"324","Boston-Cambridge-Newton, MA-NH",36450,1,80,84
+"325","Seattle-Tacoma-Bellevue, WA",24373,1,80,84
+"326","New York-Newark-Jersey City, NY-NJ-PA",159082,1,80,84
+"327","Atlanta-Sandy Springs-Alpharetta, GA",34825,1,80,84
+"328","Phoenix-Mesa-Chandler, AZ",42642,1,80,84
+"329","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",47555,1,80,84
+"330","Detroit-Warren-Dearborn, MI",33968,1,80,84
+"331","Riverside-San Bernardino-Ontario, CA",23483,1,85,99
+"332","San Francisco-Oakland-Berkeley, CA",35594,1,85,99
+"333","Atlanta-Sandy Springs-Alpharetta, GA",24966,1,85,99
+"334","Washington-Arlington-Alexandria, DC-VA-MD-WV",32743,1,85,99
+"335","Houston-The Woodlands-Sugar Land, TX",27111,1,85,99
+"336","Chicago-Naperville-Elgin, IL-IN-WI",52936,1,85,99
+"337","Boston-Cambridge-Newton, MA-NH",32424,1,85,99
+"338","Seattle-Tacoma-Bellevue, WA",21559,1,85,99
+"339","Phoenix-Mesa-Chandler, AZ",32075,1,85,99
+"340","New York-Newark-Jersey City, NY-NJ-PA",141333,1,85,99
+"341","Miami-Fort Lauderdale-Pompano Beach, FL",63084,1,85,99
+"342","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",41936,1,85,99
+"343","Detroit-Warren-Dearborn, MI",27811,1,85,99
+"344","Los Angeles-Long Beach-Anaheim, CA",84307,1,85,99
+"345","Dallas-Fort Worth-Arlington, TX",27228,1,85,99
+"346","Houston-The Woodlands-Sugar Land, TX",235595,0,0,5
+"347","Riverside-San Bernardino-Ontario, CA",141601,0,0,5
+"348","Chicago-Naperville-Elgin, IL-IN-WI",258525,0,0,5
+"349","San Francisco-Oakland-Berkeley, CA",114225,0,0,5
+"350","Phoenix-Mesa-Chandler, AZ",138403,0,0,5
+"351","Atlanta-Sandy Springs-Alpharetta, GA",172930,0,0,5
+"352","Miami-Fort Lauderdale-Pompano Beach, FL",159312,0,0,5
+"353","Dallas-Fort Worth-Arlington, TX",242570,0,0,5
+"354","Boston-Cambridge-Newton, MA-NH",121111,0,0,5
+"355","Detroit-Warren-Dearborn, MI",120061,0,0,5
+"356","Washington-Arlington-Alexandria, DC-VA-MD-WV",188164,0,0,5
+"357","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",166641,0,0,5
+"358","New York-Newark-Jersey City, NY-NJ-PA",553246,0,0,5
+"359","Los Angeles-Long Beach-Anaheim, CA",338266,0,0,5
+"360","Seattle-Tacoma-Bellevue, WA",109944,0,0,5
+"361","Atlanta-Sandy Springs-Alpharetta, GA",193975,0,5,9
+"362","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",173617,0,5,9
+"363","Chicago-Naperville-Elgin, IL-IN-WI",285846,0,5,9
+"364","Los Angeles-Long Beach-Anaheim, CA",364375,0,5,9
+"365","Phoenix-Mesa-Chandler, AZ",147857,0,5,9
+"366","New York-Newark-Jersey City, NY-NJ-PA",550642,0,5,9
+"367","Dallas-Fort Worth-Arlington, TX",256670,0,5,9
+"368","Boston-Cambridge-Newton, MA-NH",125165,0,5,9
+"369","Miami-Fort Lauderdale-Pompano Beach, FL",158243,0,5,9
+"370","Washington-Arlington-Alexandria, DC-VA-MD-WV",197503,0,5,9
+"371","Houston-The Woodlands-Sugar Land, TX",244338,0,5,9
+"372","Riverside-San Bernardino-Ontario, CA",153537,0,5,9
+"373","San Francisco-Oakland-Berkeley, CA",121472,0,5,9
+"374","Detroit-Warren-Dearborn, MI",126175,0,5,9
+"375","Seattle-Tacoma-Bellevue, WA",112685,0,5,9
+"376","Atlanta-Sandy Springs-Alpharetta, GA",215729,0,10,14
+"377","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",200124,0,10,14
+"378","Boston-Cambridge-Newton, MA-NH",135224,0,10,14
+"379","Los Angeles-Long Beach-Anaheim, CA",397797,0,10,14
+"380","San Francisco-Oakland-Berkeley, CA",125864,0,10,14
+"381","Dallas-Fort Worth-Arlington, TX",293753,0,10,14
+"382","Detroit-Warren-Dearborn, MI",135117,0,10,14
+"383","Chicago-Naperville-Elgin, IL-IN-WI",303519,0,10,14
+"384","Washington-Arlington-Alexandria, DC-VA-MD-WV",203954,0,10,14
+"385","Seattle-Tacoma-Bellevue, WA",122223,0,10,14
+"386","Houston-The Woodlands-Sugar Land, TX",284040,0,10,14
+"387","New York-Newark-Jersey City, NY-NJ-PA",602657,0,10,14
+"388","Riverside-San Bernardino-Ontario, CA",175727,0,10,14
+"389","Phoenix-Mesa-Chandler, AZ",169630,0,10,14
+"390","Miami-Fort Lauderdale-Pompano Beach, FL",177613,0,10,14
+"391","Detroit-Warren-Dearborn, MI",83622,0,15,17
+"392","Houston-The Woodlands-Sugar Land, TX",160924,0,15,17
+"393","Boston-Cambridge-Newton, MA-NH",83723,0,15,17
+"394","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",115464,0,15,17
+"395","Dallas-Fort Worth-Arlington, TX",170715,0,15,17
+"396","Washington-Arlington-Alexandria, DC-VA-MD-WV",121536,0,15,17
+"397","New York-Newark-Jersey City, NY-NJ-PA",353751,0,15,17
+"398","Miami-Fort Lauderdale-Pompano Beach, FL",106552,0,15,17
+"399","Seattle-Tacoma-Bellevue, WA",67997,0,15,17
+"400","Chicago-Naperville-Elgin, IL-IN-WI",189940,0,15,17
+"401","Los Angeles-Long Beach-Anaheim, CA",240032,0,15,17
+"402","Riverside-San Bernardino-Ontario, CA",103001,0,15,17
+"403","Phoenix-Mesa-Chandler, AZ",100248,0,15,17
+"404","San Francisco-Oakland-Berkeley, CA",77830,0,15,17
+"405","Atlanta-Sandy Springs-Alpharetta, GA",136736,0,15,17
+"406","Detroit-Warren-Dearborn, MI",45032,0,18,19
+"407","New York-Newark-Jersey City, NY-NJ-PA",218882,0,18,19
+"408","Phoenix-Mesa-Chandler, AZ",61165,0,18,19
+"409","Washington-Arlington-Alexandria, DC-VA-MD-WV",77874,0,18,19
+"410","San Francisco-Oakland-Berkeley, CA",49492,0,18,19
+"411","Boston-Cambridge-Newton, MA-NH",74420,0,18,19
+"412","Atlanta-Sandy Springs-Alpharetta, GA",76924,0,18,19
+"413","Seattle-Tacoma-Bellevue, WA",41046,0,18,19
+"414","Houston-The Woodlands-Sugar Land, TX",84621,0,18,19
+"415","Dallas-Fort Worth-Arlington, TX",99399,0,18,19
+"416","Riverside-San Bernardino-Ontario, CA",62670,0,18,19
+"417","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",78798,0,18,19
+"418","Los Angeles-Long Beach-Anaheim, CA",160037,0,18,19
+"419","Miami-Fort Lauderdale-Pompano Beach, FL",64255,0,18,19
+"420","Chicago-Naperville-Elgin, IL-IN-WI",117647,0,18,19
+"421","Seattle-Tacoma-Bellevue, WA",20360,0,20,20
+"422","Dallas-Fort Worth-Arlington, TX",49422,0,20,20
+"423","Miami-Fort Lauderdale-Pompano Beach, FL",31823,0,20,20
+"424","San Francisco-Oakland-Berkeley, CA",24585,0,20,20
+"425","Detroit-Warren-Dearborn, MI",25040,0,20,20
+"426","Atlanta-Sandy Springs-Alpharetta, GA",41059,0,20,20
+"427","New York-Newark-Jersey City, NY-NJ-PA",112433,0,20,20
+"428","Houston-The Woodlands-Sugar Land, TX",40645,0,20,20
+"429","Los Angeles-Long Beach-Anaheim, CA",82850,0,20,20
+"430","Riverside-San Bernardino-Ontario, CA",35377,0,20,20
+"431","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",38904,0,20,20
+"432","Boston-Cambridge-Newton, MA-NH",33010,0,20,20
+"433","Chicago-Naperville-Elgin, IL-IN-WI",49444,0,20,20
+"434","Washington-Arlington-Alexandria, DC-VA-MD-WV",34213,0,20,20
+"435","Phoenix-Mesa-Chandler, AZ",27857,0,20,20
+"436","Chicago-Naperville-Elgin, IL-IN-WI",55151,0,21,21
+"437","New York-Newark-Jersey City, NY-NJ-PA",107985,0,21,21
+"438","Seattle-Tacoma-Bellevue, WA",22622,0,21,21
+"439","Riverside-San Bernardino-Ontario, CA",28452,0,21,21
+"440","Dallas-Fort Worth-Arlington, TX",47464,0,21,21
+"441","San Francisco-Oakland-Berkeley, CA",19875,0,21,21
+"442","Phoenix-Mesa-Chandler, AZ",33087,0,21,21
+"443","Houston-The Woodlands-Sugar Land, TX",45148,0,21,21
+"444","Washington-Arlington-Alexandria, DC-VA-MD-WV",30368,0,21,21
+"445","Miami-Fort Lauderdale-Pompano Beach, FL",36680,0,21,21
+"446","Boston-Cambridge-Newton, MA-NH",36237,0,21,21
+"447","Los Angeles-Long Beach-Anaheim, CA",85378,0,21,21
+"448","Detroit-Warren-Dearborn, MI",23544,0,21,21
+"449","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",34847,0,21,21
+"450","Atlanta-Sandy Springs-Alpharetta, GA",36458,0,21,21
+"451","Dallas-Fort Worth-Arlington, TX",154266,0,22,24
+"452","Miami-Fort Lauderdale-Pompano Beach, FL",98070,0,22,24
+"453","Detroit-Warren-Dearborn, MI",78693,0,22,24
+"454","San Francisco-Oakland-Berkeley, CA",76088,0,22,24
+"455","Boston-Cambridge-Newton, MA-NH",100645,0,22,24
+"456","Houston-The Woodlands-Sugar Land, TX",146339,0,22,24
+"457","Atlanta-Sandy Springs-Alpharetta, GA",119901,0,22,24
+"458","Riverside-San Bernardino-Ontario, CA",90275,0,22,24
+"459","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",112901,0,22,24
+"460","Chicago-Naperville-Elgin, IL-IN-WI",190455,0,22,24
+"461","New York-Newark-Jersey City, NY-NJ-PA",367926,0,22,24
+"462","Seattle-Tacoma-Bellevue, WA",69658,0,22,24
+"463","Los Angeles-Long Beach-Anaheim, CA",243472,0,22,24
+"464","Phoenix-Mesa-Chandler, AZ",96375,0,22,24
+"465","Washington-Arlington-Alexandria, DC-VA-MD-WV",125261,0,22,24
+"466","Miami-Fort Lauderdale-Pompano Beach, FL",183199,0,25,29
+"467","New York-Newark-Jersey City, NY-NJ-PA",696985,0,25,29
+"468","Dallas-Fort Worth-Arlington, TX",281704,0,25,29
+"469","Chicago-Naperville-Elgin, IL-IN-WI",329769,0,25,29
+"470","Phoenix-Mesa-Chandler, AZ",173206,0,25,29
+"471","Atlanta-Sandy Springs-Alpharetta, GA",219459,0,25,29
+"472","San Francisco-Oakland-Berkeley, CA",156595,0,25,29
+"473","Boston-Cambridge-Newton, MA-NH",180195,0,25,29
+"474","Los Angeles-Long Beach-Anaheim, CA",486688,0,25,29
+"475","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",212989,0,25,29
+"476","Riverside-San Bernardino-Ontario, CA",164135,0,25,29
+"477","Houston-The Woodlands-Sugar Land, TX",254345,0,25,29
+"478","Washington-Arlington-Alexandria, DC-VA-MD-WV",221666,0,25,29
+"479","Detroit-Warren-Dearborn, MI",147322,0,25,29
+"480","Seattle-Tacoma-Bellevue, WA",152208,0,25,29
+"481","Chicago-Naperville-Elgin, IL-IN-WI",334530,0,30,34
+"482","New York-Newark-Jersey City, NY-NJ-PA",718255,0,30,34
+"483","Los Angeles-Long Beach-Anaheim, CA",503171,0,30,34
+"484","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",230072,0,30,34
+"485","Miami-Fort Lauderdale-Pompano Beach, FL",203212,0,30,34
+"486","Boston-Cambridge-Newton, MA-NH",181994,0,30,34
+"487","Dallas-Fort Worth-Arlington, TX",293858,0,30,34
+"488","San Francisco-Oakland-Berkeley, CA",184752,0,30,34
+"489","Atlanta-Sandy Springs-Alpharetta, GA",228600,0,30,34
+"490","Riverside-San Bernardino-Ontario, CA",167366,0,30,34
+"491","Houston-The Woodlands-Sugar Land, TX",264426,0,30,34
+"492","Washington-Arlington-Alexandria, DC-VA-MD-WV",233104,0,30,34
+"493","Detroit-Warren-Dearborn, MI",149388,0,30,34
+"494","Seattle-Tacoma-Bellevue, WA",170361,0,30,34
+"495","Phoenix-Mesa-Chandler, AZ",174190,0,30,34
+"496","Miami-Fort Lauderdale-Pompano Beach, FL",199322,0,35,39
+"497","Los Angeles-Long Beach-Anaheim, CA",444034,0,35,39
+"498","Riverside-San Bernardino-Ontario, CA",156332,0,35,39
+"499","Atlanta-Sandy Springs-Alpharetta, GA",225455,0,35,39
+"500","Boston-Cambridge-Newton, MA-NH",169362,0,35,39
+"501","Dallas-Fort Worth-Arlington, TX",284118,0,35,39
+"502","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",209887,0,35,39
+"503","Detroit-Warren-Dearborn, MI",134722,0,35,39
+"504","Houston-The Woodlands-Sugar Land, TX",269929,0,35,39
+"505","Phoenix-Mesa-Chandler, AZ",167294,0,35,39
+"506","San Francisco-Oakland-Berkeley, CA",174928,0,35,39
+"507","Seattle-Tacoma-Bellevue, WA",155601,0,35,39
+"508","New York-Newark-Jersey City, NY-NJ-PA",664242,0,35,39
+"509","Chicago-Naperville-Elgin, IL-IN-WI",324231,0,35,39
+"510","Washington-Arlington-Alexandria, DC-VA-MD-WV",251080,0,35,39
+"511","Boston-Cambridge-Newton, MA-NH",153978,0,40,44
+"512","Riverside-San Bernardino-Ontario, CA",151993,0,40,44
+"513","New York-Newark-Jersey City, NY-NJ-PA",659206,0,40,44
+"514","Houston-The Woodlands-Sugar Land, TX",256532,0,40,44
+"515","Los Angeles-Long Beach-Anaheim, CA",439856,0,40,44
+"516","Detroit-Warren-Dearborn, MI",135179,0,40,44
+"517","Atlanta-Sandy Springs-Alpharetta, GA",222559,0,40,44
+"518","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",205475,0,40,44
+"519","San Francisco-Oakland-Berkeley, CA",165953,0,40,44
+"520","Chicago-Naperville-Elgin, IL-IN-WI",322569,0,40,44
+"521","Washington-Arlington-Alexandria, DC-VA-MD-WV",224704,0,40,44
+"522","Dallas-Fort Worth-Arlington, TX",278851,0,40,44
+"523","Phoenix-Mesa-Chandler, AZ",155738,0,40,44
+"524","Seattle-Tacoma-Bellevue, WA",145406,0,40,44
+"525","Miami-Fort Lauderdale-Pompano Beach, FL",202136,0,40,44
+"526","Los Angeles-Long Beach-Anaheim, CA",424814,0,45,49
+"527","Riverside-San Bernardino-Ontario, CA",140286,0,45,49
+"528","Houston-The Woodlands-Sugar Land, TX",235933,0,45,49
+"529","Chicago-Naperville-Elgin, IL-IN-WI",300019,0,45,49
+"530","Detroit-Warren-Dearborn, MI",135857,0,45,49
+"531","Atlanta-Sandy Springs-Alpharetta, GA",216264,0,45,49
+"532","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",182979,0,45,49
+"533","Phoenix-Mesa-Chandler, AZ",149474,0,45,49
+"534","Seattle-Tacoma-Bellevue, WA",122667,0,45,49
+"535","San Francisco-Oakland-Berkeley, CA",153203,0,45,49
+"536","Dallas-Fort Worth-Arlington, TX",260208,0,45,49
+"537","Miami-Fort Lauderdale-Pompano Beach, FL",203850,0,45,49
+"538","Boston-Cambridge-Newton, MA-NH",147426,0,45,49
+"539","New York-Newark-Jersey City, NY-NJ-PA",621336,0,45,49
+"540","Washington-Arlington-Alexandria, DC-VA-MD-WV",211009,0,45,49
+"541","Detroit-Warren-Dearborn, MI",151053,0,50,54
+"542","Phoenix-Mesa-Chandler, AZ",151893,0,50,54
+"543","Houston-The Woodlands-Sugar Land, TX",221835,0,50,54
+"544","Atlanta-Sandy Springs-Alpharetta, GA",220015,0,50,54
+"545","Dallas-Fort Worth-Arlington, TX",249045,0,50,54
+"546","Miami-Fort Lauderdale-Pompano Beach, FL",211384,0,50,54
+"547","Seattle-Tacoma-Bellevue, WA",125503,0,50,54
+"548","Chicago-Naperville-Elgin, IL-IN-WI",313050,0,50,54
+"549","San Francisco-Oakland-Berkeley, CA",154979,0,50,54
+"550","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",206731,0,50,54
+"551","Boston-Cambridge-Newton, MA-NH",166951,0,50,54
+"552","New York-Newark-Jersey City, NY-NJ-PA",671865,0,50,54
+"553","Washington-Arlington-Alexandria, DC-VA-MD-WV",215007,0,50,54
+"554","Los Angeles-Long Beach-Anaheim, CA",440855,0,50,54
+"555","Riverside-San Bernardino-Ontario, CA",139963,0,50,54
+"556","Atlanta-Sandy Springs-Alpharetta, GA",201648,0,55,59
+"557","San Francisco-Oakland-Berkeley, CA",154808,0,55,59
+"558","New York-Newark-Jersey City, NY-NJ-PA",674558,0,55,59
+"559","Detroit-Warren-Dearborn, MI",148070,0,55,59
+"560","Houston-The Woodlands-Sugar Land, TX",197574,0,55,59
+"561","Phoenix-Mesa-Chandler, AZ",144951,0,55,59
+"562","Boston-Cambridge-Newton, MA-NH",170001,0,55,59
+"563","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",218613,0,55,59
+"564","Washington-Arlington-Alexandria, DC-VA-MD-WV",202824,0,55,59
+"565","Los Angeles-Long Beach-Anaheim, CA",425737,0,55,59
+"566","Miami-Fort Lauderdale-Pompano Beach, FL",217037,0,55,59
+"567","Seattle-Tacoma-Bellevue, WA",118422,0,55,59
+"568","Dallas-Fort Worth-Arlington, TX",231310,0,55,59
+"569","Chicago-Naperville-Elgin, IL-IN-WI",305345,0,55,59
+"570","Riverside-San Bernardino-Ontario, CA",134393,0,55,59
+"571","Phoenix-Mesa-Chandler, AZ",59880,0,60,61
+"572","Dallas-Fort Worth-Arlington, TX",96061,0,60,61
+"573","New York-Newark-Jersey City, NY-NJ-PA",276059,0,60,61
+"574","Washington-Arlington-Alexandria, DC-VA-MD-WV",82983,0,60,61
+"575","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",90623,0,60,61
+"576","Miami-Fort Lauderdale-Pompano Beach, FL",87856,0,60,61
+"577","Detroit-Warren-Dearborn, MI",68130,0,60,61
+"578","Riverside-San Bernardino-Ontario, CA",55871,0,60,61
+"579","Los Angeles-Long Beach-Anaheim, CA",162006,0,60,61
+"580","Chicago-Naperville-Elgin, IL-IN-WI",132726,0,60,61
+"581","Seattle-Tacoma-Bellevue, WA",49498,0,60,61
+"582","San Francisco-Oakland-Berkeley, CA",60692,0,60,61
+"583","Boston-Cambridge-Newton, MA-NH",68414,0,60,61
+"584","Atlanta-Sandy Springs-Alpharetta, GA",82079,0,60,61
+"585","Houston-The Woodlands-Sugar Land, TX",85625,0,60,61
+"586","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",129466,0,62,64
+"587","San Francisco-Oakland-Berkeley, CA",81694,0,62,64
+"588","Washington-Arlington-Alexandria, DC-VA-MD-WV",117250,0,62,64
+"589","New York-Newark-Jersey City, NY-NJ-PA",405541,0,62,64
+"590","Chicago-Naperville-Elgin, IL-IN-WI",184139,0,62,64
+"591","Seattle-Tacoma-Bellevue, WA",70723,0,62,64
+"592","Riverside-San Bernardino-Ontario, CA",77667,0,62,64
+"593","Detroit-Warren-Dearborn, MI",96527,0,62,64
+"594","Boston-Cambridge-Newton, MA-NH",102029,0,62,64
+"595","Los Angeles-Long Beach-Anaheim, CA",239131,0,62,64
+"596","Miami-Fort Lauderdale-Pompano Beach, FL",119443,0,62,64
+"597","Phoenix-Mesa-Chandler, AZ",91891,0,62,64
+"598","Dallas-Fort Worth-Arlington, TX",121763,0,62,64
+"599","Atlanta-Sandy Springs-Alpharetta, GA",104991,0,62,64
+"600","Houston-The Woodlands-Sugar Land, TX",120292,0,62,64
+"601","Boston-Cambridge-Newton, MA-NH",59386,0,65,66
+"602","Miami-Fort Lauderdale-Pompano Beach, FL",76692,0,65,66
+"603","Dallas-Fort Worth-Arlington, TX",73849,0,65,66
+"604","New York-Newark-Jersey City, NY-NJ-PA",248329,0,65,66
+"605","Chicago-Naperville-Elgin, IL-IN-WI",114235,0,65,66
+"606","Washington-Arlington-Alexandria, DC-VA-MD-WV",68241,0,65,66
+"607","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",81566,0,65,66
+"608","Riverside-San Bernardino-Ontario, CA",48712,0,65,66
+"609","Detroit-Warren-Dearborn, MI",60915,0,65,66
+"610","Atlanta-Sandy Springs-Alpharetta, GA",66817,0,65,66
+"611","San Francisco-Oakland-Berkeley, CA",50979,0,65,66
+"612","Houston-The Woodlands-Sugar Land, TX",69414,0,65,66
+"613","Los Angeles-Long Beach-Anaheim, CA",146844,0,65,66
+"614","Seattle-Tacoma-Bellevue, WA",40547,0,65,66
+"615","Phoenix-Mesa-Chandler, AZ",54540,0,65,66
+"616","Chicago-Naperville-Elgin, IL-IN-WI",150328,0,67,69
+"617","San Francisco-Oakland-Berkeley, CA",74258,0,67,69
+"618","New York-Newark-Jersey City, NY-NJ-PA",312852,0,67,69
+"619","Los Angeles-Long Beach-Anaheim, CA",189243,0,67,69
+"620","Seattle-Tacoma-Bellevue, WA",61664,0,67,69
+"621","Dallas-Fort Worth-Arlington, TX",97404,0,67,69
+"622","Washington-Arlington-Alexandria, DC-VA-MD-WV",90911,0,67,69
+"623","Boston-Cambridge-Newton, MA-NH",81080,0,67,69
+"624","Atlanta-Sandy Springs-Alpharetta, GA",83243,0,67,69
+"625","Miami-Fort Lauderdale-Pompano Beach, FL",99993,0,67,69
+"626","Houston-The Woodlands-Sugar Land, TX",90861,0,67,69
+"627","Detroit-Warren-Dearborn, MI",74855,0,67,69
+"628","Riverside-San Bernardino-Ontario, CA",63340,0,67,69
+"629","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",106449,0,67,69
+"630","Phoenix-Mesa-Chandler, AZ",78916,0,67,69
+"631","Dallas-Fort Worth-Arlington, TX",143253,0,70,74
+"632","Boston-Cambridge-Newton, MA-NH",119717,0,70,74
+"633","Riverside-San Bernardino-Ontario, CA",89324,0,70,74
+"634","Miami-Fort Lauderdale-Pompano Beach, FL",163226,0,70,74
+"635","San Francisco-Oakland-Berkeley, CA",116390,0,70,74
+"636","New York-Newark-Jersey City, NY-NJ-PA",477340,0,70,74
+"637","Detroit-Warren-Dearborn, MI",112116,0,70,74
+"638","Chicago-Naperville-Elgin, IL-IN-WI",215259,0,70,74
+"639","Houston-The Woodlands-Sugar Land, TX",134639,0,70,74
+"640","Phoenix-Mesa-Chandler, AZ",120588,0,70,74
+"641","Los Angeles-Long Beach-Anaheim, CA",274340,0,70,74
+"642","Atlanta-Sandy Springs-Alpharetta, GA",132001,0,70,74
+"643","Seattle-Tacoma-Bellevue, WA",81612,0,70,74
+"644","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",149521,0,70,74
+"645","Washington-Arlington-Alexandria, DC-VA-MD-WV",132592,0,70,74
+"646","San Francisco-Oakland-Berkeley, CA",76652,0,75,79
+"647","Los Angeles-Long Beach-Anaheim, CA",189198,0,75,79
+"648","Dallas-Fort Worth-Arlington, TX",89392,0,75,79
+"649","Seattle-Tacoma-Bellevue, WA",56301,0,75,79
+"650","New York-Newark-Jersey City, NY-NJ-PA",336875,0,75,79
+"651","Chicago-Naperville-Elgin, IL-IN-WI",148386,0,75,79
+"652","Miami-Fort Lauderdale-Pompano Beach, FL",122417,0,75,79
+"653","Atlanta-Sandy Springs-Alpharetta, GA",78942,0,75,79
+"654","Phoenix-Mesa-Chandler, AZ",80906,0,75,79
+"655","Boston-Cambridge-Newton, MA-NH",79777,0,75,79
+"656","Riverside-San Bernardino-Ontario, CA",60871,0,75,79
+"657","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",101810,0,75,79
+"658","Houston-The Woodlands-Sugar Land, TX",82471,0,75,79
+"659","Detroit-Warren-Dearborn, MI",73578,0,75,79
+"660","Washington-Arlington-Alexandria, DC-VA-MD-WV",92342,0,75,79
+"661","Dallas-Fort Worth-Arlington, TX",57184,0,80,84
+"662","Chicago-Naperville-Elgin, IL-IN-WI",93084,0,80,84
+"663","San Francisco-Oakland-Berkeley, CA",49263,0,80,84
+"664","Houston-The Woodlands-Sugar Land, TX",44434,0,80,84
+"665","Boston-Cambridge-Newton, MA-NH",50777,0,80,84
+"666","Miami-Fort Lauderdale-Pompano Beach, FL",86923,0,80,84
+"667","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",70812,0,80,84
+"668","Phoenix-Mesa-Chandler, AZ",51269,0,80,84
+"669","Detroit-Warren-Dearborn, MI",47139,0,80,84
+"670","Riverside-San Bernardino-Ontario, CA",38933,0,80,84
+"671","Washington-Arlington-Alexandria, DC-VA-MD-WV",53385,0,80,84
+"672","Atlanta-Sandy Springs-Alpharetta, GA",49643,0,80,84
+"673","Los Angeles-Long Beach-Anaheim, CA",130445,0,80,84
+"674","Seattle-Tacoma-Bellevue, WA",31610,0,80,84
+"675","New York-Newark-Jersey City, NY-NJ-PA",234878,0,80,84
+"676","Miami-Fort Lauderdale-Pompano Beach, FL",100184,0,85,99
+"677","Boston-Cambridge-Newton, MA-NH",62884,0,85,99
+"678","Dallas-Fort Worth-Arlington, TX",48730,0,85,99
+"679","Los Angeles-Long Beach-Anaheim, CA",146813,0,85,99
+"680","Chicago-Naperville-Elgin, IL-IN-WI",105513,0,85,99
+"681","Washington-Arlington-Alexandria, DC-VA-MD-WV",58161,0,85,99
+"682","New York-Newark-Jersey City, NY-NJ-PA",267689,0,85,99
+"683","Houston-The Woodlands-Sugar Land, TX",50914,0,85,99
+"684","Riverside-San Bernardino-Ontario, CA",40775,0,85,99
+"685","Detroit-Warren-Dearborn, MI",52717,0,85,99
+"686","Phoenix-Mesa-Chandler, AZ",49567,0,85,99
+"687","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",79032,0,85,99
+"688","Atlanta-Sandy Springs-Alpharetta, GA",44798,0,85,99
+"689","San Francisco-Oakland-Berkeley, CA",58315,0,85,99
+"690","Seattle-Tacoma-Bellevue, WA",36016,0,85,99
