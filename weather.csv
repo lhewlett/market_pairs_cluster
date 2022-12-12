@@ -1,0 +1,169 @@
+MSA,Month,Temp
+"Atlanta-Sandy Springs-Alpharetta, GA",1,43
+"Atlanta-Sandy Springs-Alpharetta, GA",2,47
+"Atlanta-Sandy Springs-Alpharetta, GA",3,54
+"Atlanta-Sandy Springs-Alpharetta, GA",4,61
+"Atlanta-Sandy Springs-Alpharetta, GA",5,68.5
+"Atlanta-Sandy Springs-Alpharetta, GA",6,76
+"Atlanta-Sandy Springs-Alpharetta, GA",7,79
+"Atlanta-Sandy Springs-Alpharetta, GA",8,78
+"Atlanta-Sandy Springs-Alpharetta, GA",9,72.5
+"Atlanta-Sandy Springs-Alpharetta, GA",10,62
+"Atlanta-Sandy Springs-Alpharetta, GA",11,52.5
+"Atlanta-Sandy Springs-Alpharetta, GA",12,45
+"Boston-Cambridge-Newton, MA-NH",1,29.5
+"Boston-Cambridge-Newton, MA-NH",2,31.5
+"Boston-Cambridge-Newton, MA-NH",3,38.5
+"Boston-Cambridge-Newton, MA-NH",4,49
+"Boston-Cambridge-Newton, MA-NH",5,58.5
+"Boston-Cambridge-Newton, MA-NH",6,68
+"Boston-Cambridge-Newton, MA-NH",7,74
+"Boston-Cambridge-Newton, MA-NH",8,73
+"Boston-Cambridge-Newton, MA-NH",9,65.5
+"Boston-Cambridge-Newton, MA-NH",10,54.5
+"Boston-Cambridge-Newton, MA-NH",11,45
+"Boston-Cambridge-Newton, MA-NH",12,35
+"Chicago-Naperville-Elgin, IL-IN-WI",1,24.5
+"Chicago-Naperville-Elgin, IL-IN-WI",2,29.5
+"Chicago-Naperville-Elgin, IL-IN-WI",3,39.5
+"Chicago-Naperville-Elgin, IL-IN-WI",4,50
+"Chicago-Naperville-Elgin, IL-IN-WI",5,60.5
+"Chicago-Naperville-Elgin, IL-IN-WI",6,70
+"Chicago-Naperville-Elgin, IL-IN-WI",7,75.5
+"Chicago-Naperville-Elgin, IL-IN-WI",8,74.5
+"Chicago-Naperville-Elgin, IL-IN-WI",9,67
+"Chicago-Naperville-Elgin, IL-IN-WI",10,55.5
+"Chicago-Naperville-Elgin, IL-IN-WI",11,43
+"Chicago-Naperville-Elgin, IL-IN-WI",12,32
+"Dallas-Fort Worth-Arlington, TX",1,46.5
+"Dallas-Fort Worth-Arlington, TX",2,51
+"Dallas-Fort Worth-Arlington, TX",3,59
+"Dallas-Fort Worth-Arlington, TX",4,66.5
+"Dallas-Fort Worth-Arlington, TX",5,74.5
+"Dallas-Fort Worth-Arlington, TX",6,82.5
+"Dallas-Fort Worth-Arlington, TX",7,86.5
+"Dallas-Fort Worth-Arlington, TX",8,86.5
+"Dallas-Fort Worth-Arlington, TX",9,79
+"Dallas-Fort Worth-Arlington, TX",10,68.5
+"Dallas-Fort Worth-Arlington, TX",11,57
+"Dallas-Fort Worth-Arlington, TX",12,48.5
+"Detroit-Warren-Dearborn, MI",1,26
+"Detroit-Warren-Dearborn, MI",2,28.5
+"Detroit-Warren-Dearborn, MI",3,37
+"Detroit-Warren-Dearborn, MI",4,48.5
+"Detroit-Warren-Dearborn, MI",5,60
+"Detroit-Warren-Dearborn, MI",6,69
+"Detroit-Warren-Dearborn, MI",7,74.5
+"Detroit-Warren-Dearborn, MI",8,72
+"Detroit-Warren-Dearborn, MI",9,65
+"Detroit-Warren-Dearborn, MI",10,52.5
+"Detroit-Warren-Dearborn, MI",11,41.5
+"Detroit-Warren-Dearborn, MI",12,29
+"Houston-The Woodlands-Sugar Land, TX",1,52.5
+"Houston-The Woodlands-Sugar Land, TX",2,56
+"Houston-The Woodlands-Sugar Land, TX",3,62.5
+"Houston-The Woodlands-Sugar Land, TX",4,68.5
+"Houston-The Woodlands-Sugar Land, TX",5,75.5
+"Houston-The Woodlands-Sugar Land, TX",6,81
+"Houston-The Woodlands-Sugar Land, TX",7,83.5
+"Houston-The Woodlands-Sugar Land, TX",8,83.5
+"Houston-The Woodlands-Sugar Land, TX",9,78.5
+"Houston-The Woodlands-Sugar Land, TX",10,71
+"Houston-The Woodlands-Sugar Land, TX",11,62
+"Houston-The Woodlands-Sugar Land, TX",12,55.5
+"Los Angeles-Long Beach-Anaheim, CA",1,58.5
+"Los Angeles-Long Beach-Anaheim, CA",2,60
+"Los Angeles-Long Beach-Anaheim, CA",3,61
+"Los Angeles-Long Beach-Anaheim, CA",4,64
+"Los Angeles-Long Beach-Anaheim, CA",5,66
+"Los Angeles-Long Beach-Anaheim, CA",6,70.5
+"Los Angeles-Long Beach-Anaheim, CA",7,74
+"Los Angeles-Long Beach-Anaheim, CA",8,75.5
+"Los Angeles-Long Beach-Anaheim, CA",9,74
+"Los Angeles-Long Beach-Anaheim, CA",10,69.5
+"Los Angeles-Long Beach-Anaheim, CA",11,63
+"Los Angeles-Long Beach-Anaheim, CA",12,58.5
+"Miami-Fort Lauderdale-Pompano Beach, FL",1,68.5
+"Miami-Fort Lauderdale-Pompano Beach, FL",2,69.5
+"Miami-Fort Lauderdale-Pompano Beach, FL",3,72
+"Miami-Fort Lauderdale-Pompano Beach, FL",4,75
+"Miami-Fort Lauderdale-Pompano Beach, FL",5,78.5
+"Miami-Fort Lauderdale-Pompano Beach, FL",6,81.5
+"Miami-Fort Lauderdale-Pompano Beach, FL",7,82.5
+"Miami-Fort Lauderdale-Pompano Beach, FL",8,83.5
+"Miami-Fort Lauderdale-Pompano Beach, FL",9,82
+"Miami-Fort Lauderdale-Pompano Beach, FL",10,79
+"Miami-Fort Lauderdale-Pompano Beach, FL",11,74.5
+"Miami-Fort Lauderdale-Pompano Beach, FL",12,70.5
+"New York-Newark-Jersey City, NY-NJ-PA",1,32.5
+"New York-Newark-Jersey City, NY-NJ-PA",2,36
+"New York-Newark-Jersey City, NY-NJ-PA",3,44
+"New York-Newark-Jersey City, NY-NJ-PA",4,54.5
+"New York-Newark-Jersey City, NY-NJ-PA",5,63
+"New York-Newark-Jersey City, NY-NJ-PA",6,72
+"New York-Newark-Jersey City, NY-NJ-PA",7,76.5
+"New York-Newark-Jersey City, NY-NJ-PA",8,76.5
+"New York-Newark-Jersey City, NY-NJ-PA",9,68.5
+"New York-Newark-Jersey City, NY-NJ-PA",10,57
+"New York-Newark-Jersey City, NY-NJ-PA",11,48.5
+"New York-Newark-Jersey City, NY-NJ-PA",12,37.5
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1,34.5
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2,37.5
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3,45
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",4,56.5
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",5,66
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",6,75.5
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",7,80.5
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",8,78.5
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",9,71.5
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",10,59.5
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",11,49
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",12,40
+"Phoenix-Mesa-Chandler, AZ",1,56.5
+"Phoenix-Mesa-Chandler, AZ",2,60
+"Phoenix-Mesa-Chandler, AZ",3,64.5
+"Phoenix-Mesa-Chandler, AZ",4,72.5
+"Phoenix-Mesa-Chandler, AZ",5,80.5
+"Phoenix-Mesa-Chandler, AZ",6,90
+"Phoenix-Mesa-Chandler, AZ",7,94
+"Phoenix-Mesa-Chandler, AZ",8,93
+"Phoenix-Mesa-Chandler, AZ",9,87.5
+"Phoenix-Mesa-Chandler, AZ",10,76.5
+"Phoenix-Mesa-Chandler, AZ",11,63.5
+"Phoenix-Mesa-Chandler, AZ",12,56
+"San Francisco-Oakland-Berkeley, CA",1,52.5
+"San Francisco-Oakland-Berkeley, CA",2,54.5
+"San Francisco-Oakland-Berkeley, CA",3,55.5
+"San Francisco-Oakland-Berkeley, CA",4,56.5
+"San Francisco-Oakland-Berkeley, CA",5,57.5
+"San Francisco-Oakland-Berkeley, CA",6,60
+"San Francisco-Oakland-Berkeley, CA",7,60.5
+"San Francisco-Oakland-Berkeley, CA",8,61.5
+"San Francisco-Oakland-Berkeley, CA",9,63.5
+"San Francisco-Oakland-Berkeley, CA",10,62.5
+"San Francisco-Oakland-Berkeley, CA",11,57.5
+"San Francisco-Oakland-Berkeley, CA",12,52
+"Seattle-Tacoma-Bellevue, WA",1,41
+"Seattle-Tacoma-Bellevue, WA",2,43.5
+"Seattle-Tacoma-Bellevue, WA",3,46.5
+"Seattle-Tacoma-Bellevue, WA",4,50
+"Seattle-Tacoma-Bellevue, WA",5,56
+"Seattle-Tacoma-Bellevue, WA",6,60.5
+"Seattle-Tacoma-Bellevue, WA",7,64.5
+"Seattle-Tacoma-Bellevue, WA",8,65
+"Seattle-Tacoma-Bellevue, WA",9,60.5
+"Seattle-Tacoma-Bellevue, WA",10,52.5
+"Seattle-Tacoma-Bellevue, WA",11,45
+"Seattle-Tacoma-Bellevue, WA",12,40.5
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",1,34
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2,37
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",3,45.5
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",4,55.5
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",5,65
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",6,74
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",7,78.5
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",8,76.5
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",9,70
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",10,57.5
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",11,48
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",12,39
